@@ -1,2 +1,2 @@
-# My first Github Project 
-This is my first Github project. I published this project directly from visual studio code. 
+# Excel Automation using openxyl 
+This package helps automate repetitive work  
